@@ -1,0 +1,58 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+body{
+ background-color: rgb(130, 118, 232);
+ align-items: center;
+  margin-left: 200px;
+}
+
+.container{
+    width: 800px;
+    height: 80vh ; 
+    border: 2px rgb(254, 10, 10) solid;
+    margin: 50px 50px;
+    justify-content: center;
+    background-color: black;
+    
+}
+.container section{
+    display: flex;
+}
+.box{
+    border: 2px rgb(249, 9, 9) solid;
+    width: 400px;
+    height: 20vh;
+
+}
+#box1{
+    background-color: rgb(123, 190, 249);
+}
+#box2{
+     background-color: rgb(148, 201, 248);
+}
+#box3{
+     background-color: rgb(63, 133, 195);
+}
+#box4{
+     background-color: rgb(39, 120, 191);
+}
+#box5{
+     background-color: rgb(27, 83, 132);
+}
+#box6{ background-color: rgb(43, 83, 119);}
+#box7{ background-color: rgb(18, 55, 88);}
+#box8{ background-color: rgb(4, 42, 75);}
+
+
+
+
+@media only screen and (max-width: 600px) {
+  /* Styles for screens smaller than 600px */
+  body {
+    background-color: rgb(8, 180, 238);
+  }
+}
