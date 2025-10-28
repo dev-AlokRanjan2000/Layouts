@@ -89,5 +89,8 @@ body {
 
 
 .box section div{
- 
+
+z-index: initial;
+
+
 }
