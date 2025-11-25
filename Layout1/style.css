@@ -87,7 +87,7 @@ body {
     width: 100%;
     height: 20vh;
     z-index: auto;
-    
+    -ms-layout-grid: line;
   
   }
 
