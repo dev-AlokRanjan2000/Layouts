@@ -71,11 +71,11 @@ body {
 
 @media only screen and (max-width: 600px) {
   body {
-    background-color: rgb(8, 180, 238);
+    background-color: rgb(14, 136, 176);
     margin-left: 0;
     padding
   }
-}
+
 
   .container {
     width: 100%;
@@ -84,10 +84,11 @@ body {
   }
 
   .box {
-    width: 100%;
+    width: 80%;
     height: 20vh;
     z-index: auto;
     -ms-layout-grid: line;
   
   }
 
+}
