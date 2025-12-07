@@ -25,3 +25,7 @@ nav{
     index  font-size: ;
     
 }
+.nav-tabs ul li{
+    margin: 0 15px;
+    inset-inline-start: calc();
+}
