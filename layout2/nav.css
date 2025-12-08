@@ -28,4 +28,10 @@ nav{
 .nav-tabs ul li{
     margin: 0 15px;
     inset-inline-start: calc();
+    color-interpolation-filters: ;
+}
+.nav-tabs ul li{
+    margin: 0 15px;
+    inset-inline-start: calc();
+    color-interpolation-filters: ;
 }
