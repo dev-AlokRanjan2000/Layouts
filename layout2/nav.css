@@ -31,4 +31,8 @@ nav{
     color-interpolation-filters: ;
 }
 
+.nav-tabs ul li a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #fff;
 }
