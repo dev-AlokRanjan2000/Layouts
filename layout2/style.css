@@ -60,3 +60,10 @@ body {
     margin: 32px auto;
   }
 }
+.box:nth-child(1){
+  background-color: #ffadad;
+}
+.box:nth-child(2){
+  background: local(#7adfff);
+}
+ index.html <!DOCTYPEndx of th e HTML document --> :nth-child  the
