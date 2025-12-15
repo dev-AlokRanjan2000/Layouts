@@ -45,6 +45,8 @@ body {
   .grid {
     grid-template-columns: repeat(2, 1fr);
     gap: 16px;
+    infraction of the valid the 
+    
   }
   .container {
     margin: 48px auto;
