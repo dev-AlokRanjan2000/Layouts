@@ -11,8 +11,52 @@ body{
 
 .container{
     max-width: 1200px;
-    height 100vh;
-    margin: auto;
-    padding: 20px;
+    min-height: 800px;
+    margin:  80px auto ;
     background-color: violet;
+    
+}
+
+.box-container{
+    display: flex;
+}
+
+
+.box{
+    border: 2px solid black;
+    height: 200px;
+    width: 600px;
+    display: flex;
+}
+
+
+.box1{
+    background-color: yellow;
+    
+}
+.box2{
+    background-color: orange;
+    
+}
+.box3{
+    background-color: red;
+    
+}
+.box4{
+    background-color: green;
+    
+}
+.box5{
+    background-color: blue;
+}
+.box6{
+    background-color: purple;
+    
+}
+.box7{
+    background-color: pink;
+    
+}
+.box8{
+    background-
 }
